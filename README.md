@@ -17,5 +17,7 @@ For detailed data processing and model selection, please refer to `preprocess_da
 This project is based on methodologies described in the paper:  
 **Design and Implementation of Intrusion Detection System using Convolutional Neural Network for DoS Detection**
 
-## Project Structure
-
+Install the required libraries:
+    ```bash
+    pip install -r requirements.txt
+    ```
