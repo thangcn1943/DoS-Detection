@@ -1,4 +1,21 @@
-Malware Detection and Classification  
-Dự đoán xâm nhập dựa vào các đặc trưng về lưu lượng mạng bằng CNN  
-Để xem chi tiết các xử lý dữ liệu và chọn mô hình -> preprocess_data.ipynb  
-reference: Design and Implementation of Intrusion Detection System using Convolutional Neural Network for DoS Detection 
+# DoS Detection and Intrusion
+
+## Introduction
+
+This project focuses on intrusion detection using network traffic features and employs Convolutional Neural Networks (CNN) for prediction.
+
+## Dataset
+
+The dataset used is the KDD CUP 1999 dataset, which can be found [here](https://www.kaggle.com/datasets/galaxyh/kdd-cup-1999-data).
+
+## Process Overview
+
+For detailed data processing and model selection, please refer to `preprocess_data.ipynb`.
+
+## Reference
+
+This project is based on methodologies described in the paper:  
+**Design and Implementation of Intrusion Detection System using Convolutional Neural Network for DoS Detection**
+
+## Project Structure
+
