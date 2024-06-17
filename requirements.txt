@@ -1,6 +1,0 @@
-numpy==1.25.2
-pandas==2.0.3
-sklearn==1.2.2
-tensorflow==2.15.0
-keras==2.15.0
-pickle==4.0
